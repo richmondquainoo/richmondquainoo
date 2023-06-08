@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a Rate Payers App<br>👯 I’m looking to collaborate with Software Engineers<br>🌱 I’m currently learning DevOps<br>⚡ Fun fact: I am music lover
+🔭 I’m currently working on Vento App<br>👯 I’m looking to collaborate with Software Engineers<br>🌱 I’m currently learning DevOps<br>⚡ Fun fact: I am music lover
 
 
 ## 🌐 Socials:
